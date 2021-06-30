@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!empty_file.txt
+!*/empty_file.txt
+!*/*/empty_file.txt
+!*/*/*/empty_file.txt
